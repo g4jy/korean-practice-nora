@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Describe Sentences — Nora</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container builder-page">
+    <header class="page-header">
+      <a href="index.html" class="back-btn">&larr; Back</a>
+      <h1>Describe Sentences</h1>
+    </header>
+
+    <p class="instruction">Tap each block to change the word. Make a sentence that makes sense!</p>
+
+    <div class="element-toggles">
+      <button class="element-toggle" data-element="adverb">+ Adverb</button>
+    </div>
+
+    <div class="sentence-area" id="sentence-area">
+      <div class="block-row describe-row">
+        <div class="block" id="block-subject" data-slot="subject">
+          <span class="block-kr"></span>
+          <span class="block-rom"></span>
+          <span class="block-en"></span>
+        </div>
+        <div class="block block-adverb hidden" id="block-adverb" data-slot="adverb">
+          <span class="block-kr"></span>
+          <span class="block-rom"></span>
+          <span class="block-en"></span>
+        </div>
+        <div class="block" id="block-adjective" data-slot="adjective">
+          <span class="block-kr"></span>
+          <span class="block-rom"></span>
+          <span class="block-en"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="result-area">
+      <div class="full-sentence" id="full-sentence"></div>
+      <div class="translation" id="translation"></div>
+      <button class="tts-btn-large" id="speak-btn" title="Listen to sentence">🔊 Listen</button>
+    </div>
+
+    <div class="rom-toggle">
+      <button class="btn-rom active" id="toggle-rom">Aa Hide Romanization</button>
+      <button class="btn-rom active" id="toggle-en">EN Hide English</button>
+    </div>
+
+    <div class="slot-labels describe-labels">
+      <span>Subject</span>
+      <span class="adverb-label hidden" id="adverb-label">Adverb</span>
+      <span>Adjective</span>
+    </div>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/describe-builder.js"></script>
+</body>
+</html>

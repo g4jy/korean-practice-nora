@@ -1,0 +1,1464 @@
+{
+  "student": "Nora",
+  "generated": "2026-02-15",
+  "chapters": [
+    {
+      "id": 1,
+      "title": "Basic Introductions and Daily Life",
+      "lesson": 0,
+      "sentences": [
+        {
+          "kr": "저는 학생이에요.",
+          "en": "I am a student.",
+          "rom": "JEO-NEUN HAK-SAENG-I-E-YO",
+          "pattern": "copula_polite",
+          "vocab": ["학생"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국어를 공부해요.",
+          "en": "I study Korean.",
+          "rom": "HAN-GU-GEO-REUL GONG-BU-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["한국어", "공부하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "남자친구가 한국 사람이에요.",
+          "en": "My boyfriend is Korean.",
+          "rom": "NAM-JA-CHIN-GU-GA HAN-GUK SA-RAM-I-E-YO",
+          "pattern": "copula_polite",
+          "vocab": ["남자친구", "한국", "사람"],
+          "difficulty": 1
+        },
+        {
+          "kr": "저는 멕시코에서 왔어요.",
+          "en": "I came from Mexico.",
+          "rom": "JEO-NEUN MEK-SI-KO-E-SEO WA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["멕시코", "오다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "남자친구를 보고 싶어요.",
+          "en": "I want to see my boyfriend. / I miss my boyfriend.",
+          "rom": "NAM-JA-CHIN-GU-REUL BO-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["남자친구", "보다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국어로 말해요.",
+          "en": "I speak in Korean.",
+          "rom": "HAN-GU-GEO-RO MAL-HAE-YO",
+          "pattern": "means_particle",
+          "vocab": ["한국어", "말하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "서울에 가고 싶어요.",
+          "en": "I want to go to Seoul.",
+          "rom": "SEO-UL-E GA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["서울", "가다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "매일 한국어를 연습해요.",
+          "en": "I practice Korean every day.",
+          "rom": "MAE-IL HAN-GU-GEO-REUL YEON-SEUP-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["매일", "한국어", "연습하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "친구를 만나고 싶어요.",
+          "en": "I want to meet my friend.",
+          "rom": "CHIN-GU-REUL MAN-NA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["친구", "만나다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "집에서 공부하고 있어요.",
+          "en": "I am studying at home.",
+          "rom": "JI-BE-SEO GONG-BU-HA-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["집", "공부하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "오늘 날씨가 좋아요.",
+          "en": "The weather is nice today.",
+          "rom": "O-NEUL NAL-SSI-GA JO-A-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["오늘", "날씨", "좋다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국 음악을 들어요.",
+          "en": "I listen to Korean music.",
+          "rom": "HAN-GUK EU-MA-GEUL DEUR-EO-YO",
+          "pattern": "present_polite",
+          "vocab": ["한국", "음악", "듣다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "책을 읽고 있어요.",
+          "en": "I am reading a book.",
+          "rom": "CHAE-GEUL IL-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["책", "읽다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "커피를 마셔요.",
+          "en": "I drink coffee.",
+          "rom": "KEO-PI-REUL MA-SYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["커피", "마시다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "영화를 봐요.",
+          "en": "I watch a movie.",
+          "rom": "YEONG-HWA-REUL BWA-YO",
+          "pattern": "present_polite",
+          "vocab": ["영화", "보다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "내일 한국에 갈 거예요.",
+          "en": "I will go to Korea tomorrow.",
+          "rom": "NAE-IL HAN-GU-GE GAL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["내일", "한국", "가다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어를 잘하고 싶어요.",
+          "en": "I want to speak Korean well.",
+          "rom": "HAN-GU-GEO-REUL JAL-HA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["한국어", "잘", "하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "매일 운동해요.",
+          "en": "I exercise every day.",
+          "rom": "MAE-IL UN-DONG-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["매일", "운동하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "저는 뉴스를 봐요.",
+          "en": "I watch the news.",
+          "rom": "JEO-NEUN NYU-SEU-REUL BWA-YO",
+          "pattern": "present_polite",
+          "vocab": ["뉴스", "보다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국 드라마를 좋아해요.",
+          "en": "I like Korean dramas.",
+          "rom": "HAN-GUK DEU-RA-MA-REUL JO-A-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["한국", "드라마", "좋아하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "점심을 먹었어요.",
+          "en": "I ate lunch.",
+          "rom": "JEOM-SI-MEUL MEO-GEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["점심", "먹다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "물을 마시고 있어요.",
+          "en": "I am drinking water.",
+          "rom": "MU-REUL MA-SI-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["물", "마시다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "이야기를 들었어요.",
+          "en": "I heard the story.",
+          "rom": "I-YA-GI-REUL DEUR-EO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["이야기", "듣다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국 음식을 먹고 싶어요.",
+          "en": "I want to eat Korean food.",
+          "rom": "HAN-GUK EUM-SI-GEUL MEOK-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["한국", "음식", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어가 어려워요.",
+          "en": "Korean is difficult.",
+          "rom": "HAN-GU-GEO-GA EO-RYEO-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["한국어", "어렵다"],
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Food, Restaurants, and Taste",
+      "lesson": 1,
+      "sentences": [
+        {
+          "kr": "어제 식당에 갔어요.",
+          "en": "I went to a restaurant yesterday.",
+          "rom": "EO-JE SIK-DANG-E GA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["어제", "식당", "가다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "타코를 먹었어요.",
+          "en": "I ate tacos.",
+          "rom": "TA-KO-REUL MEO-GEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["타코", "먹다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "소고기 타코를 좋아해요.",
+          "en": "I like beef tacos.",
+          "rom": "SO-GO-GI TA-KO-REUL JO-A-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["소고기", "타코", "좋아하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "타코가 너무 맛있어요.",
+          "en": "The tacos are so delicious.",
+          "rom": "TA-KO-GA NEO-MU MA-SI-SSEO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["타코", "너무", "맛있다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "사과 맛 사이다를 마셨어요.",
+          "en": "I drank apple-flavored cider.",
+          "rom": "SA-GWA MAT SA-I-DA-REUL MA-SYEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["사과", "맛", "사이다", "마시다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "어머니랑 중국 음식을 먹었어요.",
+          "en": "I ate Chinese food with my mother.",
+          "rom": "EO-MEO-NI-RANG JUNG-GUK EUM-SI-GEUL MEO-GEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["어머니", "중국", "음식", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "중국 식당에서 친구를 만났어요.",
+          "en": "I met a friend at a Chinese restaurant.",
+          "rom": "JUNG-GUK SIK-DANG-E-SEO CHIN-GU-REUL MAN-NA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["중국", "식당", "친구", "만나다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "음식이 매워요.",
+          "en": "The food is spicy.",
+          "rom": "EUM-SI-GI MAE-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["음식", "맵다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "매콤하지만 맛있어요.",
+          "en": "It's spicy but delicious.",
+          "rom": "MAE-KOM-HA-JI-MAN MA-SI-SSEO-YO",
+          "pattern": "contrast",
+          "vocab": ["매콤하다", "맛있다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "달콤한 음식을 좋아해요.",
+          "en": "I like sweet food.",
+          "rom": "DAL-KOM-HAN EUM-SI-GEUL JO-A-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["달콤하다", "음식", "좋아하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "레몬이 새콤해요.",
+          "en": "The lemon is sour.",
+          "rom": "RE-MON-I SAE-KOM-HAE-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["레몬", "새콤하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "카페에서 커피를 마셔요.",
+          "en": "I drink coffee at a cafe.",
+          "rom": "KA-PE-E-SEO KEO-PI-REUL MA-SYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["카페", "커피", "마시다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "아메리카노를 주문했어요.",
+          "en": "I ordered an americano.",
+          "rom": "A-ME-RI-KA-NO-REUL JU-MUN-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["아메리카노", "주문하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "카드로 계산했어요.",
+          "en": "I paid by card.",
+          "rom": "KA-DEU-RO GYE-SAN-HAE-SSEO-YO",
+          "pattern": "means_particle",
+          "vocab": ["카드", "계산하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "메뉴를 봐요.",
+          "en": "I look at the menu.",
+          "rom": "ME-NYU-REUL BWA-YO",
+          "pattern": "present_polite",
+          "vocab": ["메뉴", "보다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "메뉴를 골랐어요.",
+          "en": "I chose from the menu.",
+          "rom": "ME-NYU-REUL GOL-LA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["메뉴", "고르다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "치킨을 먹을 거예요.",
+          "en": "I will eat chicken.",
+          "rom": "CHI-KIN-EUL MEO-GEUL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["치킨", "먹다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "피자를 주문하고 싶어요.",
+          "en": "I want to order pizza.",
+          "rom": "PI-JA-REUL JU-MUN-HA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["피자", "주문하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "배가 고파요.",
+          "en": "I'm hungry.",
+          "rom": "BAE-GA GO-PA-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["배", "고프다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "배고파서 밥을 먹었어요.",
+          "en": "I was hungry, so I ate.",
+          "rom": "BAE-GO-PA-SEO BA-BEUL MEO-GEO-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["배고프다", "밥", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "물을 마실 거예요.",
+          "en": "I will drink water.",
+          "rom": "MU-REUL MA-SIL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["물", "마시다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "커피가 뜨거워요.",
+          "en": "The coffee is hot.",
+          "rom": "KEO-PI-GA TTEU-GEO-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["커피", "뜨겁다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "카페에서 친구를 만나요.",
+          "en": "I meet a friend at a cafe.",
+          "rom": "KA-PE-E-SEO CHIN-GU-REUL MAN-NA-YO",
+          "pattern": "present_polite",
+          "vocab": ["카페", "친구", "만나다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "아침에 커피를 마셔요.",
+          "en": "I drink coffee in the morning.",
+          "rom": "A-CHI-ME KEO-PI-REUL MA-SYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["아침", "커피", "마시다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "저녁에 가족하고 밥을 먹어요.",
+          "en": "I eat dinner with my family in the evening.",
+          "rom": "JEO-NYEO-GE GA-JOK-HA-GO BA-BEUL MEO-GEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["저녁", "가족", "밥", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "김치찌개가 맛있어요.",
+          "en": "Kimchi stew is delicious.",
+          "rom": "GIM-CHI-JJI-GAE-GA MA-SI-SSEO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["김치찌개", "맛있다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국 식당에서 김치찌개를 먹었어요.",
+          "en": "I ate kimchi stew at a Korean restaurant.",
+          "rom": "HAN-GUK SIK-DANG-E-SEO GIM-CHI-JJI-GAE-REUL MEO-GEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["한국", "식당", "김치찌개", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "식당에 갈 때 메뉴를 확인해요.",
+          "en": "When going to a restaurant, I check the menu.",
+          "rom": "SIK-DANG-E GAL TTAE ME-NYU-REUL HWA-GIN-HAE-YO",
+          "pattern": "when_doing",
+          "vocab": ["식당", "가다", "메뉴", "확인하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "친구하고 점심을 먹을 거예요.",
+          "en": "I will eat lunch with my friend.",
+          "rom": "CHIN-GU-HA-GO JEOM-SI-MEUL MEO-GEUL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["친구", "점심", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "오늘 저녁은 뭐 먹을 거예요?",
+          "en": "What will you eat for dinner tonight?",
+          "rom": "O-NEUL JEO-NYEO-GEUN MWO MEO-GEUL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["오늘", "저녁", "먹다"],
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Clothing and Daily Routines",
+      "lesson": 3,
+      "sentences": [
+        {
+          "kr": "추우면 자켓을 입어요.",
+          "en": "If it's cold, I wear a jacket.",
+          "rom": "CHU-U-MYEON JA-KET-EUL I-BEO-YO",
+          "pattern": "conditional",
+          "vocab": ["춥다", "자켓", "입다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "밖에 나갈 때 모자를 써요.",
+          "en": "When I go outside, I wear a hat.",
+          "rom": "BAK-KE NA-GAL TTAE MO-JA-REUL SSEO-YO",
+          "pattern": "when_doing",
+          "vocab": ["밖", "나가다", "모자", "쓰다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "장갑을 껴요.",
+          "en": "I wear gloves.",
+          "rom": "JANG-GAP-EUL KKYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["장갑", "끼다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "신발을 신어요.",
+          "en": "I wear shoes.",
+          "rom": "SIN-BAL-EUL SI-NEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["신발", "신다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "회사에 갈 때 구두를 신어요.",
+          "en": "When I go to work, I wear dress shoes.",
+          "rom": "HOE-SA-E GAL TTAE GU-DU-REUL SI-NEO-YO",
+          "pattern": "when_doing",
+          "vocab": ["회사", "가다", "구두", "신다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "집에서 슬리퍼를 신어요.",
+          "en": "I wear slippers at home.",
+          "rom": "JI-BE-SEO SEUL-LI-PEO-REUL SI-NEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["집", "슬리퍼", "신다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "겨울에 장화를 신어요.",
+          "en": "I wear rain boots in winter.",
+          "rom": "GYEO-U-RE JANG-HWA-REUL SI-NEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["겨울", "장화", "신다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "안경을 써요.",
+          "en": "I wear glasses.",
+          "rom": "AN-GYEONG-EUL SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["안경", "쓰다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "책을 읽을 때 안경을 써요.",
+          "en": "When I read books, I wear glasses.",
+          "rom": "CHAE-GEUL IL-GEUL TTAE AN-GYEONG-EUL SSEO-YO",
+          "pattern": "when_doing",
+          "vocab": ["책", "읽다", "안경", "쓰다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "지하철에서 마스크를 써요.",
+          "en": "I wear a mask on the subway.",
+          "rom": "JI-HA-CHEOL-E-SEO MA-SEU-KEU-REUL SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["지하철", "마스크", "쓰다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "반지를 껴요.",
+          "en": "I wear a ring.",
+          "rom": "BAN-JI-REUL KKYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["반지", "끼다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "목걸이를 해요.",
+          "en": "I wear a necklace.",
+          "rom": "MOK-KKEO-RI-REUL HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["목걸이", "하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "귀걸이를 해요.",
+          "en": "I wear earrings.",
+          "rom": "GWI-KKEO-RI-REUL HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["귀걸이", "하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "시계를 차요.",
+          "en": "I wear a watch.",
+          "rom": "SI-GYE-REUL CHA-YO",
+          "pattern": "present_polite",
+          "vocab": ["시계", "차다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "스카프를 해요.",
+          "en": "I wear a scarf.",
+          "rom": "SEU-KA-PEU-REUL HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["스카프", "하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "넥타이를 해요.",
+          "en": "I wear a necktie.",
+          "rom": "NEK-TA-I-REUL HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["넥타이", "하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "요리할 때 앞치마를 해요.",
+          "en": "When I cook, I wear an apron.",
+          "rom": "YO-RI-HAL TTAE AP-CHI-MA-REUL HAE-YO",
+          "pattern": "when_doing",
+          "vocab": ["요리하다", "앞치마", "하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "하얀 셔츠를 입었어요.",
+          "en": "I wore a white shirt.",
+          "rom": "HA-YAN SYEO-CHEU-REUL I-BEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["하얀", "셔츠", "입다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "검은 바지를 입어요.",
+          "en": "I wear black pants.",
+          "rom": "GEOM-EUN BA-JI-REUL I-BEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["검은", "바지", "입다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "편한 옷을 입고 싶어요.",
+          "en": "I want to wear comfortable clothes.",
+          "rom": "PYEON-HAN O-SEUL IP-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["편한", "옷", "입다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "양말을 신었어요.",
+          "en": "I put on socks.",
+          "rom": "YANG-MAL-EUL SI-NEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["양말", "신다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "날씨가 추워요.",
+          "en": "The weather is cold.",
+          "rom": "NAL-SSI-GA CHU-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["날씨", "춥다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "날씨가 더워요.",
+          "en": "The weather is hot.",
+          "rom": "NAL-SSI-GA DEO-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["날씨", "덥다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "날씨가 좋으면 산책해요.",
+          "en": "If the weather is nice, I take a walk.",
+          "rom": "NAL-SSI-GA JO-EU-MYEON SAN-CHAEK-HAE-YO",
+          "pattern": "conditional",
+          "vocab": ["날씨", "좋다", "산책하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "추워서 자켓을 입었어요.",
+          "en": "It was cold, so I wore a jacket.",
+          "rom": "CHU-WO-SEO JA-KET-EUL I-BEO-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["춥다", "자켓", "입다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "손이 차가워요.",
+          "en": "My hands are cold.",
+          "rom": "SO-NI CHA-GA-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["손", "차갑다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "발이 아파요.",
+          "en": "My feet hurt.",
+          "rom": "BA-RI A-PA-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["발", "아프다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "머리가 아파요.",
+          "en": "My head hurts.",
+          "rom": "MEO-RI-GA A-PA-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["머리", "아프다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "몸이 아파서 쉬었어요.",
+          "en": "My body hurt, so I rested.",
+          "rom": "MO-MI A-PA-SEO SWI-EO-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["몸", "아프다", "쉬다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "옷을 골랐어요.",
+          "en": "I chose clothes.",
+          "rom": "O-SEUL GOL-LA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["옷", "고르다"],
+          "difficulty": 1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Work, Exercise, and Simultaneous Actions",
+      "lesson": 4,
+      "sentences": [
+        {
+          "kr": "헬스장에서 운동해요.",
+          "en": "I exercise at the gym.",
+          "rom": "HEL-SEU-JANG-E-SEO UN-DONG-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["헬스장", "운동하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "헬스장에 갈 때 음악을 들어요.",
+          "en": "When going to the gym, I listen to music.",
+          "rom": "HEL-SEU-JANG-E GAL TTAE EU-MA-GEUL DEUR-EO-YO",
+          "pattern": "when_doing",
+          "vocab": ["헬스장", "가다", "음악", "듣다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "음악을 들으면서 운동해요.",
+          "en": "I exercise while listening to music.",
+          "rom": "EU-MA-GEUL DEUR-EU-MYEON-SEO UN-DONG-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["음악", "듣다", "운동하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "회사에서 일해요.",
+          "en": "I work at the office.",
+          "rom": "HOE-SA-E-SEO IL-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["회사", "일하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "회사에 갈 때 택시를 타요.",
+          "en": "When going to work, I take a taxi.",
+          "rom": "HOE-SA-E GAL TTAE TAEK-SI-REUL TA-YO",
+          "pattern": "when_doing",
+          "vocab": ["회사", "가다", "택시", "타다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "지하철로 회사에 가요.",
+          "en": "I go to work by subway.",
+          "rom": "JI-HA-CHEOL-RO HOE-SA-E GA-YO",
+          "pattern": "means_particle",
+          "vocab": ["지하철", "회사", "가다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "회사에서 커피를 많이 마셔요.",
+          "en": "I drink a lot of coffee at work.",
+          "rom": "HOE-SA-E-SEO KEO-PI-REUL MA-NI MA-SYEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["회사", "커피", "많이", "마시다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "컴퓨터로 일해요.",
+          "en": "I work on a computer.",
+          "rom": "KEOM-PYU-TEO-RO IL-HAE-YO",
+          "pattern": "means_particle",
+          "vocab": ["컴퓨터", "일하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "커피를 마시면서 일해요.",
+          "en": "I work while drinking coffee.",
+          "rom": "KEO-PI-REUL MA-SI-MYEON-SEO IL-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["커피", "마시다", "일하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "드라마를 보면서 한국어를 배워요.",
+          "en": "I learn Korean while watching dramas.",
+          "rom": "DEU-RA-MA-REUL BO-MYEON-SEO HAN-GU-GEO-REUL BAE-WO-YO",
+          "pattern": "simultaneous",
+          "vocab": ["드라마", "보다", "한국어", "배우다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "산책하면서 전화해요.",
+          "en": "I talk on the phone while walking.",
+          "rom": "SAN-CHAEK-HA-MYEON-SEO JEON-HWA-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["산책하다", "전화하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "밥을 먹으면서 뉴스를 봐요.",
+          "en": "I watch the news while eating.",
+          "rom": "BA-BEUL MEO-GEU-MYEON-SEO NYU-SEU-REUL BWA-YO",
+          "pattern": "simultaneous",
+          "vocab": ["밥", "먹다", "뉴스", "보다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "학교에서 공부해요.",
+          "en": "I study at school.",
+          "rom": "HAK-KKYO-E-SEO GONG-BU-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["학교", "공부하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "학교에 갈 때 친구를 만나요.",
+          "en": "When going to school, I meet a friend.",
+          "rom": "HAK-KKYO-E GAL TTAE CHIN-GU-REUL MAN-NA-YO",
+          "pattern": "when_doing",
+          "vocab": ["학교", "가다", "친구", "만나다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "옷을 입으면서 노래해요.",
+          "en": "I sing while getting dressed.",
+          "rom": "O-SEUL I-BEU-MYEON-SEO NO-RAE-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["옷", "입다", "노래하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "점심을 먹으면서 이야기해요.",
+          "en": "We talk while eating lunch.",
+          "rom": "JEOM-SI-MEUL MEO-GEU-MYEON-SEO I-YA-GI-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["점심", "먹다", "이야기하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "카드로 계산해요.",
+          "en": "I pay by card.",
+          "rom": "KA-DEU-RO GYE-SAN-HAE-YO",
+          "pattern": "means_particle",
+          "vocab": ["카드", "계산하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "일하고 나서 운동해요.",
+          "en": "After working, I exercise.",
+          "rom": "IL-HA-GO NA-SEO UN-DONG-HAE-YO",
+          "pattern": "after_doing",
+          "vocab": ["일하다", "운동하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "밥을 먹고 나서 커피를 마셔요.",
+          "en": "After eating, I drink coffee.",
+          "rom": "BA-BEUL MEOK-GO NA-SEO KEO-PI-REUL MA-SYEO-YO",
+          "pattern": "after_doing",
+          "vocab": ["밥", "먹다", "커피", "마시다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "샤워하고 나서 잠을 자요.",
+          "en": "After showering, I go to sleep.",
+          "rom": "SYA-WO-HA-GO NA-SEO JA-MEUL JA-YO",
+          "pattern": "after_doing",
+          "vocab": ["샤워하다", "자다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어 수업하고 나서 복습해요.",
+          "en": "After Korean class, I review.",
+          "rom": "HAN-GU-GEO SU-EOP-HA-GO NA-SEO BOK-SEUP-HAE-YO",
+          "pattern": "after_doing",
+          "vocab": ["한국어", "수업", "복습하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "집에서 일하고 있어요.",
+          "en": "I am working from home.",
+          "rom": "JI-BE-SEO IL-HA-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["집", "일하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "지금 공부하고 있어요.",
+          "en": "I am studying right now.",
+          "rom": "JI-GEUM GONG-BU-HA-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["지금", "공부하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "친구를 기다리고 있어요.",
+          "en": "I am waiting for a friend.",
+          "rom": "CHIN-GU-REUL GI-DA-RI-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["친구", "기다리다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "운전하면서 전화해요.",
+          "en": "I talk on the phone while driving.",
+          "rom": "UN-JEON-HA-MYEON-SEO JEON-HWA-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["운전하다", "전화하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "도서관에서 책을 읽어요.",
+          "en": "I read books at the library.",
+          "rom": "DO-SEO-GWAN-E-SEO CHAE-GEUL IL-GEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["도서관", "책", "읽다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "일하면서 음악을 들어요.",
+          "en": "I listen to music while working.",
+          "rom": "IL-HA-MYEON-SEO EU-MA-GEUL DEUR-EO-YO",
+          "pattern": "simultaneous",
+          "vocab": ["일하다", "음악", "듣다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "기구로 운동해요.",
+          "en": "I exercise with machines.",
+          "rom": "GI-GU-RO UN-DONG-HAE-YO",
+          "pattern": "means_particle",
+          "vocab": ["기구", "운동하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어를 가르쳐 주세요.",
+          "en": "Please teach me Korean.",
+          "rom": "HAN-GU-GEO-REUL GA-REU-CHYEO JU-SE-YO",
+          "pattern": "request",
+          "vocab": ["한국어", "가르치다"],
+          "difficulty": 2
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Travel and Transportation",
+      "lesson": 5,
+      "sentences": [
+        {
+          "kr": "공항에 갔어요.",
+          "en": "I went to the airport.",
+          "rom": "GONG-HANG-E GA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["공항", "가다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "공항에 갈 때 여권을 확인해요.",
+          "en": "When going to the airport, I check my passport.",
+          "rom": "GONG-HANG-E GAL TTAE YEO-GWON-EUL HWA-GIN-HAE-YO",
+          "pattern": "when_doing",
+          "vocab": ["공항", "가다", "여권", "확인하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "택시로 공항에 갔어요.",
+          "en": "I went to the airport by taxi.",
+          "rom": "TAEK-SI-RO GONG-HANG-E GA-SSEO-YO",
+          "pattern": "means_particle",
+          "vocab": ["택시", "공항", "가다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "지하철을 타요.",
+          "en": "I take the subway.",
+          "rom": "JI-HA-CHEOL-EUL TA-YO",
+          "pattern": "present_polite",
+          "vocab": ["지하철", "타다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "지하철을 타려면 카드가 필요해요.",
+          "en": "If you want to take the subway, you need a card.",
+          "rom": "JI-HA-CHEOL-EUL TA-RYEO-MYEON KA-DEU-GA PI-RYO-HAE-YO",
+          "pattern": "in_order_to",
+          "vocab": ["지하철", "타다", "카드", "필요하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "서울에 도착했어요.",
+          "en": "I arrived in Seoul.",
+          "rom": "SEO-UL-E DO-CHAK-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["서울", "도착하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "아침에 출발했어요.",
+          "en": "I departed in the morning.",
+          "rom": "A-CHI-ME CHUL-BAL-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["아침", "출발하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "여행을 준비하고 있어요.",
+          "en": "I am preparing for a trip.",
+          "rom": "YEO-HAENG-EUL JUN-BI-HA-GO I-SSEO-YO",
+          "pattern": "progressive",
+          "vocab": ["여행", "준비하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국 여행을 하고 싶어요.",
+          "en": "I want to travel to Korea.",
+          "rom": "HAN-GUK YEO-HAENG-EUL HA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["한국", "여행", "하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "호텔을 예약했어요.",
+          "en": "I booked a hotel.",
+          "rom": "HO-TEL-EUL YE-YA-KAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["호텔", "예약하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국에 가려면 여권이 필요해요.",
+          "en": "If you want to go to Korea, you need a passport.",
+          "rom": "HAN-GU-GE GA-RYEO-MYEON YEO-GWON-I PI-RYO-HAE-YO",
+          "pattern": "in_order_to",
+          "vocab": ["한국", "가다", "여권", "필요하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "계획을 세웠어요.",
+          "en": "I made a plan.",
+          "rom": "GYE-HOEK-EUL SE-WO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["계획", "세우다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "약속이 있어요.",
+          "en": "I have an appointment.",
+          "rom": "YAK-SO-GI I-SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["약속"],
+          "difficulty": 1
+        },
+        {
+          "kr": "친구하고 약속이 있어요.",
+          "en": "I have an appointment with a friend.",
+          "rom": "CHIN-GU-HA-GO YAK-SO-GI I-SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["친구", "약속"],
+          "difficulty": 2
+        },
+        {
+          "kr": "공원에서 산책했어요.",
+          "en": "I took a walk in the park.",
+          "rom": "GONG-WON-E-SEO SAN-CHAEK-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["공원", "산책하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "음악을 들으면서 산책해요.",
+          "en": "I take a walk while listening to music.",
+          "rom": "EU-MA-GEUL DEUR-EU-MYEON-SEO SAN-CHAEK-HAE-YO",
+          "pattern": "simultaneous",
+          "vocab": ["음악", "듣다", "산책하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "시간이 없어서 못 갔어요.",
+          "en": "I couldn't go because I had no time.",
+          "rom": "SI-GA-NI EOP-SEO-SEO MOT GA-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["시간", "없다", "가다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "늦어서 택시를 탔어요.",
+          "en": "I was late, so I took a taxi.",
+          "rom": "NEU-JEO-SEO TAEK-SI-REUL TA-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["늦다", "택시", "타다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "집에 돌아왔어요.",
+          "en": "I came back home.",
+          "rom": "JI-BE DO-RA-WA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["집", "돌아오다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "백화점에서 쇼핑했어요.",
+          "en": "I shopped at the department store.",
+          "rom": "BAEK-HWA-JEOM-E-SEO SYO-PING-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["백화점", "쇼핑하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "선물을 샀어요.",
+          "en": "I bought a gift.",
+          "rom": "SEON-MU-REUL SA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["선물", "사다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "가족한테 선물을 줄 거예요.",
+          "en": "I will give a gift to my family.",
+          "rom": "GA-JOK-HAN-TE SEON-MU-REUL JUL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["가족", "선물", "주다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "박물관에 갈 거예요.",
+          "en": "I will go to the museum.",
+          "rom": "BAK-MUL-GWAN-E GAL GEO-YE-YO",
+          "pattern": "future_polite",
+          "vocab": ["박물관", "가다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "시장에서 음식을 샀어요.",
+          "en": "I bought food at the market.",
+          "rom": "SI-JANG-E-SEO EUM-SI-GEUL SA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["시장", "음식", "사다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "공항에서 커피를 마셨어요.",
+          "en": "I drank coffee at the airport.",
+          "rom": "GONG-HANG-E-SEO KEO-PI-REUL MA-SYEO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["공항", "커피", "마시다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "십일 월에 한국에 가고 싶어요.",
+          "en": "I want to go to Korea in November.",
+          "rom": "SI-BIL WO-RE HAN-GU-GE GA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["십일월", "한국", "가다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "근처에 카페가 있어요.",
+          "en": "There is a cafe nearby.",
+          "rom": "GEUN-CHEO-E KA-PE-GA I-SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["근처", "카페"],
+          "difficulty": 1
+        },
+        {
+          "kr": "지하철역이 가까워요.",
+          "en": "The subway station is close.",
+          "rom": "JI-HA-CHEOL-YEOK-I GA-KKA-WO-YO",
+          "pattern": "subject_emphasis",
+          "vocab": ["지하철역", "가깝다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "서울에 도착하고 나서 호텔에 갔어요.",
+          "en": "After arriving in Seoul, I went to the hotel.",
+          "rom": "SEO-UL-E DO-CHAK-HA-GO NA-SEO HO-TEL-E GA-SSEO-YO",
+          "pattern": "after_doing",
+          "vocab": ["서울", "도착하다", "호텔", "가다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "커피를 마시면서 한국어를 공부했어요.",
+          "en": "I studied Korean while drinking coffee.",
+          "rom": "KEO-PI-REUL MA-SI-MYEON-SEO HAN-GU-GEO-REUL GONG-BU-HAE-SSEO-YO",
+          "pattern": "simultaneous",
+          "vocab": ["커피", "마시다", "한국어", "공부하다"],
+          "difficulty": 3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Family and Relationships",
+      "lesson": 5,
+      "sentences": [
+        {
+          "kr": "남자친구의 가족을 만나고 싶어요.",
+          "en": "I want to meet my boyfriend's family.",
+          "rom": "NAM-JA-CHIN-GU-UI GA-JOK-EUL MAN-NA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["남자친구", "가족", "만나다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "남자친구가 매일 전화해요.",
+          "en": "My boyfriend calls every day.",
+          "rom": "NAM-JA-CHIN-GU-GA MAE-IL JEON-HWA-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["남자친구", "매일", "전화하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "가족이 서울에 살아요.",
+          "en": "My family lives in Seoul.",
+          "rom": "GA-JOK-I SEO-UL-E SA-RA-YO",
+          "pattern": "present_polite",
+          "vocab": ["가족", "서울", "살다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "친구를 소개했어요.",
+          "en": "I introduced my friend.",
+          "rom": "CHIN-GU-REUL SO-GAE-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["친구", "소개하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "친구를 소개하고 싶어요.",
+          "en": "I want to introduce my friend.",
+          "rom": "CHIN-GU-REUL SO-GAE-HA-GO SI-PEO-YO",
+          "pattern": "want_to",
+          "vocab": ["친구", "소개하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "어머니하고 쇼핑했어요.",
+          "en": "I went shopping with my mother.",
+          "rom": "EO-MEO-NI-HA-GO SYO-PING-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["어머니", "쇼핑하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "남자친구한테 한국어로 말했어요.",
+          "en": "I spoke to my boyfriend in Korean.",
+          "rom": "NAM-JA-CHIN-GU-HAN-TE HAN-GU-GEO-RO MAL-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["남자친구", "한국어", "말하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "가족하고 저녁을 먹어요.",
+          "en": "I eat dinner with my family.",
+          "rom": "GA-JOK-HA-GO JEO-NYEO-GEUL MEO-GEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["가족", "저녁", "먹다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "친구를 만나서 기뻐요.",
+          "en": "I'm happy because I met my friend.",
+          "rom": "CHIN-GU-REUL MAN-NA-SEO GI-PPEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["친구", "만나다", "기쁘다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어를 못해서 걱정했어요.",
+          "en": "I was worried because I couldn't speak Korean.",
+          "rom": "HAN-GU-GEO-REUL MO-TAE-SEO GEOK-JEONG-HAE-SSEO-YO",
+          "pattern": "reason_result",
+          "vocab": ["한국어", "하다", "걱정하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "시험을 걱정해요.",
+          "en": "I'm worried about the exam.",
+          "rom": "SI-HEO-MEUL GEOK-JEONG-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["시험", "걱정하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "안녕하세요. 처음 뵙겠습니다.",
+          "en": "Hello. Nice to meet you (formal).",
+          "rom": "AN-NYEONG-HA-SE-YO. CHEO-EUM BOEP-GET-SEUM-NI-DA",
+          "pattern": "formal_greeting",
+          "vocab": ["안녕하세요", "처음"],
+          "difficulty": 2
+        },
+        {
+          "kr": "천천히 말해 주세요.",
+          "en": "Please speak slowly.",
+          "rom": "CHEON-CHEON-HI MAL-HAE JU-SE-YO",
+          "pattern": "request",
+          "vocab": ["천천히", "말하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "가족이 한국어로 말했어요.",
+          "en": "My family spoke in Korean.",
+          "rom": "GA-JOK-I HAN-GU-GEO-RO MAL-HAE-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["가족", "한국어", "말하다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "한국어를 잘하려면 연습이 필요해요.",
+          "en": "If you want to be good at Korean, you need practice.",
+          "rom": "HAN-GU-GEO-REUL JAL-HA-RYEO-MYEON YEON-SEUP-I PI-RYO-HAE-YO",
+          "pattern": "in_order_to",
+          "vocab": ["한국어", "잘", "하다", "연습", "필요하다"],
+          "difficulty": 3
+        },
+        {
+          "kr": "남자친구를 만났어요.",
+          "en": "I met my boyfriend.",
+          "rom": "NAM-JA-CHIN-GU-REUL MAN-NA-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["남자친구", "만나다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "친구한테 선물을 줬어요.",
+          "en": "I gave a gift to my friend.",
+          "rom": "CHIN-GU-HAN-TE SEON-MU-REUL JWO-SSEO-YO",
+          "pattern": "past_polite",
+          "vocab": ["친구", "선물", "주다"],
+          "difficulty": 2
+        },
+        {
+          "kr": "친구가 한국에 살아요.",
+          "en": "My friend lives in Korea.",
+          "rom": "CHIN-GU-GA HAN-GU-GE SA-RA-YO",
+          "pattern": "present_polite",
+          "vocab": ["친구", "한국", "살다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "가족을 사랑해요.",
+          "en": "I love my family.",
+          "rom": "GA-JOK-EUL SA-RANG-HAE-YO",
+          "pattern": "present_polite",
+          "vocab": ["가족", "사랑하다"],
+          "difficulty": 1
+        },
+        {
+          "kr": "한국 친구가 있어요.",
+          "en": "I have a Korean friend.",
+          "rom": "HAN-GUK CHIN-GU-GA I-SSEO-YO",
+          "pattern": "present_polite",
+          "vocab": ["한국", "친구"],
+          "difficulty": 1
+        }
+      ]
+    }
+  ],
+  "patterns": [
+    {
+      "id": "copula_polite",
+      "name": "이에요/예요",
+      "description": "Polite copula (to be) - used to identify or describe nouns",
+      "level": 1
+    },
+    {
+      "id": "present_polite",
+      "name": "~아/어요",
+      "description": "Present tense polite form - daily actions and states",
+      "level": 1
+    },
+    {
+      "id": "past_polite",
+      "name": "~았/었어요",
+      "description": "Past tense polite form - completed actions",
+      "level": 1
+    },
+    {
+      "id": "future_polite",
+      "name": "~(으)ㄹ 거예요",
+      "description": "Future tense - intentions and plans",
+      "level": 1
+    },
+    {
+      "id": "want_to",
+      "name": "~고 싶어요",
+      "description": "Expressing desire - I want to do something",
+      "level": 1
+    },
+    {
+      "id": "progressive",
+      "name": "~고 있어요",
+      "description": "Present continuous - currently doing something",
+      "level": 2
+    },
+    {
+      "id": "request",
+      "name": "~(아/어) 주세요",
+      "description": "Polite request - please do something",
+      "level": 2
+    },
+    {
+      "id": "when_doing",
+      "name": "~(으)ㄹ 때",
+      "description": "When doing something - timing of actions (emphasizes movement/transit)",
+      "level": 2
+    },
+    {
+      "id": "simultaneous",
+      "name": "~면서",
+      "description": "While doing - two simultaneous actions by same person",
+      "level": 3
+    },
+    {
+      "id": "conditional",
+      "name": "~(으)면",
+      "description": "If/when condition - conditional actions",
+      "level": 2
+    },
+    {
+      "id": "reason_result",
+      "name": "~아/어서",
+      "description": "Because/so - expressing reason and result",
+      "level": 2
+    },
+    {
+      "id": "in_order_to",
+      "name": "~(으)려면",
+      "description": "If you intend to/in order to - purpose or intention",
+      "level": 3
+    },
+    {
+      "id": "after_doing",
+      "name": "~고 나서",
+      "description": "After doing - sequential actions",
+      "level": 2
+    },
+    {
+      "id": "means_particle",
+      "name": "~(으)로",
+      "description": "Tool/means particle - by means of, using (indispensable tool)",
+      "level": 2
+    },
+    {
+      "id": "subject_emphasis",
+      "name": "~이/가",
+      "description": "Subject marker with emphasis - new information or describing states",
+      "level": 2
+    },
+    {
+      "id": "contrast",
+      "name": "~지만",
+      "description": "But/however - contrasting two statements",
+      "level": 2
+    },
+    {
+      "id": "formal_greeting",
+      "name": "Formal Greeting",
+      "description": "Formal polite greetings for meeting elders or new people",
+      "level": 2
+    }
+  ]
+}

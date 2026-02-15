@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sentence Practice — Nora</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="container builder-page">
+    <header class="page-header">
+      <a href="index.html" class="back-btn">&larr; Back</a>
+      <h1>Sentence Practice</h1>
+    </header>
+
+    <p class="instruction">Tap to flip. Use as flashcards or auto-play for podcast-style learning.</p>
+
+    <!-- Mode Tabs -->
+    <div class="mode-tabs" id="mode-tabs">
+      <button class="mode-tab active" data-mode="chapter">By Chapter</button>
+      <button class="mode-tab" data-mode="pattern">By Pattern</button>
+      <button class="mode-tab" data-mode="random">Random</button>
+    </div>
+
+    <!-- Filter Panel -->
+    <div class="filter-panel" id="filter-panel">
+      <div class="filter-section" id="chapter-filters"></div>
+      <div class="filter-section hidden" id="pattern-filters"></div>
+    </div>
+
+    <!-- Mastery Stats -->
+    <div class="mastery-stats" id="mastery-stats"></div>
+
+    <!-- Sentence Card Area -->
+    <div class="sentence-card-area">
+      <div class="sentence-card" id="sentence-card">
+        <div class="sentence-inner" id="sentence-inner">
+          <!-- Front: Korean -->
+          <div class="sentence-front">
+            <div class="sentence-pattern" id="pattern-tag"></div>
+            <span class="sentence-kr" id="sentence-kr"></span>
+            <span class="sentence-rom" id="sentence-rom"></span>
+            <button class="tts-btn sentence-listen" id="card-tts" title="Listen">🔊</button>
+          </div>
+          <!-- Back: English + Vocab -->
+          <div class="sentence-back">
+            <span class="sentence-en" id="sentence-en"></span>
+            <div class="sentence-vocab" id="vocab-list"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Auto-Play Progress -->
+    <div class="autoplay-progress hidden" id="autoplay-progress">
+      <span id="autoplay-status">Playing 1 of 25...</span>
+    </div>
+
+    <!-- Navigation -->
+    <div class="flashcard-controls">
+      <button class="fc-btn" id="prev-btn">&larr;</button>
+      <span class="fc-progress" id="progress">0 / 0</span>
+      <button class="fc-btn" id="next-btn">&rarr;</button>
+    </div>
+
+    <!-- Response Buttons -->
+    <div class="response-buttons" id="response-buttons">
+      <button class="resp-btn resp-know" data-resp="know" title="Press 1">Know</button>
+      <button class="resp-btn resp-unsure" data-resp="unsure" title="Press 2">Unsure</button>
+      <button class="resp-btn resp-dont-know" data-resp="dont_know" title="Press 3">Don't Know</button>
+    </div>
+
+    <!-- Auto-Play Controls -->
+    <div class="autoplay-controls" id="autoplay-controls">
+      <button class="autoplay-btn" id="play-btn">▶ Play All</button>
+      <button class="autoplay-btn hidden" id="pause-btn">⏸ Pause</button>
+      <button class="autoplay-btn hidden" id="stop-btn">⏹ Stop</button>
+
+      <div class="autoplay-settings">
+        <div class="setting-group">
+          <label>Speed:</label>
+          <button class="setting-btn" data-speed="0.8">0.8x</button>
+          <button class="setting-btn active" data-speed="1.0">1.0x</button>
+          <button class="setting-btn" data-speed="1.2">1.2x</button>
+        </div>
+        <div class="setting-group">
+          <label>Gap:</label>
+          <button class="setting-btn" data-gap="2000">2s</button>
+          <button class="setting-btn active" data-gap="4000">4s</button>
+          <button class="setting-btn" data-gap="6000">6s</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toggles -->
+    <div class="rom-toggle">
+      <button class="btn-rom active" id="toggle-rom">Aa Hide Romanization</button>
+      <button class="btn-rom active" id="toggle-en">EN Hide English</button>
+    </div>
+  </div>
+
+  <script src="js/common.js"></script>
+  <script src="js/sentence-practice.js"></script>
+</body>
+</html>
