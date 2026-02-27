@@ -89,6 +89,16 @@
   const reviewWeakBtn = document.getElementById('review-weak-btn');
   const reviewExitBtn = document.getElementById('review-exit-btn');
 
+
+  /* --- Instant flip reset (no animation leak on navigation) --- */
+  function resetFlipInstant() {
+    isFlipped = false;
+    innerEl.classList.add('no-transition');
+    innerEl.classList.remove('flipped');
+    void innerEl.offsetWidth;          // force reflow
+    innerEl.classList.remove('no-transition');
+  }
+
   /* --- Build category tabs --- */
   const tabContainer = document.getElementById('category-tabs');
   const catNames = ['All', ...categories.keys()];
@@ -102,7 +112,7 @@
       exitReviewMode();
       currentCards = cat === 'All' ? [...allCards] : [...(categories.get(cat) || [])];
       currentIdx = 0;
-      isFlipped = false;
+      resetFlipInstant();
       tabContainer.querySelectorAll('.cat-tab').forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
       render();
@@ -197,7 +207,7 @@
     reviewMode = true;
     currentCards = weakCards;
     currentIdx = 0;
-    isFlipped = false;
+    resetFlipInstant();
     if (reviewBanner) reviewBanner.classList.remove('hidden');
     render();
   }
@@ -215,7 +225,7 @@
       exitReviewMode();
       currentCards = [...allCards];
       currentIdx = 0;
-      isFlipped = false;
+      resetFlipInstant();
       tabContainer.querySelectorAll('.cat-tab').forEach(b => b.classList.remove('active'));
       const allTab = tabContainer.querySelector('.cat-tab');
       if (allTab) allTab.classList.add('active');
@@ -248,7 +258,7 @@
     dirBtn.addEventListener('click', () => {
       cardDirection = cardDirection === 'kr-en' ? 'en-kr' : 'kr-en';
       localStorage.setItem('flashcardDirection', cardDirection);
-      isFlipped = false;
+      resetFlipInstant();
       updateDirBtn();
       render();
     });
@@ -258,14 +268,14 @@
   document.getElementById('prev-btn').addEventListener('click', () => {
     if (currentCards.length === 0) return;
     currentIdx = (currentIdx - 1 + currentCards.length) % currentCards.length;
-    isFlipped = false;
+    resetFlipInstant();
     render();
   });
 
   document.getElementById('next-btn').addEventListener('click', () => {
     if (currentCards.length === 0) return;
     currentIdx = (currentIdx + 1) % currentCards.length;
-    isFlipped = false;
+    resetFlipInstant();
     render();
   });
 
@@ -276,7 +286,7 @@
       [currentCards[i], currentCards[j]] = [currentCards[j], currentCards[i]];
     }
     currentIdx = 0;
-    isFlipped = false;
+    resetFlipInstant();
     render();
   });
 
@@ -306,7 +316,7 @@
           // For dont_know, move past current (card was reinserted ahead)
           currentIdx = (currentIdx + 1) % currentCards.length;
         }
-        isFlipped = false;
+        resetFlipInstant();
         render();
       }, 400);
     }

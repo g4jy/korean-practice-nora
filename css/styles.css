@@ -334,6 +334,7 @@ body.hide-rom .block-rom { display: none !important; }
 body.hide-rom .card-romanization { display: none !important; }
 body.hide-en .block-en { display: none !important; }
 body.hide-en .card-english { display: none !important; }
+body.hide-en .translation { display: none !important; }
 
 /* --- Flashcard Page --- */
 .category-tabs {
@@ -377,6 +378,10 @@ body.hide-en .card-english { display: none !important; }
   position: relative;
   transition: transform 0.5s;
   transform-style: preserve-3d;
+}
+
+.flashcard-inner.no-transition {
+  transition: none !important;
 }
 
 .flashcard-inner.flipped {
